@@ -14,7 +14,7 @@ input {
 .container {
   position: relative;
   width: 100%;
-  background: url(img/pexels-anni-roenkae-3169299.jpg);
+  background: url(img/background-gae8b984c6_1920.jpg);
   min-height: 100vh;
   overflow: hidden;
 }
@@ -218,12 +218,12 @@ a {
 .container:before {
   content: "";
   position: absolute;
-  height: 2000px;
-  width: 2000px;
+  height: 2500px;
+  width: 2200px;
   top: -10%;
   right: 48%;
   transform: translateY(-50%);
-  background-image: linear-gradient(-45deg, #0055ff 0%, #9706fe 100%);
+  background-image: linear-gradient(-45deg, #1e4c88 0%, #3b2688 100%);
   transition: 1.8s ease-in-out;
   border-radius: 50%;
   z-index: 6;
